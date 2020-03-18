@@ -3,6 +3,11 @@ How To Build Command Line Applications with Python
 
 Adapted by Peter Turner from [How To Build Command Line Applications with Node.js](https://www.digitalocean.com/community/tutorials/how-to-build-command-line-applications-with-node-js) by Chris Ganga
 
+In this tutorial you'll build two small CLI applications in Python:
+
+1. Quote Of the Day tool that retrieves quotes of the day from [https://quotes.rest/qod](https://quotes.rest/qod)
+2. A To-Do List app that uses JSON to save data.
+
 ## Prerequisites
 
 To complete this tutorial, you will need:
