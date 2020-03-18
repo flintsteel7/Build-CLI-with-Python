@@ -52,7 +52,7 @@ print("I am a logger")
 
 The first line tells the program loader to parse this file with Python. The second line prints text to the screen.
 
-You can try and run the file by typing this in your terminal. You’ll get a permission denied for execution.
+You can try to run the file by typing this in your terminal. You’ll get a permission denied for execution.
 
 ```
 $ ./logger.py
@@ -79,7 +79,7 @@ you'll see the output:
 I am a logger
 ```
 
-You could have run this program with `python logger`, but adding the shebang and making the file executable on its own lets you avoid typing `python` to run it.
+You could have run this program with `python logger.py`, but adding the shebang and making the file executable on its own lets you avoid typing `python` to run it.
 
 ## Creating the Quote of the Day App
 
